@@ -40,6 +40,6 @@ Version: 2024-06 (4.32.0)
 
 ## Imagem
 
-https://github.com/murilove69/INTERFACE/blob/master/Interface.png
+(https://github.com/murilove69/INTERFACE/blob/master/Interface.png)
 
 
